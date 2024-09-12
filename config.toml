@@ -3,6 +3,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 included-patches = "'Enable slide to seek'"
 excluded-patches = "'Hide seekbar' 'Hide endscreen cards' 'Comments' 'Playback speed' 'Swipe controls'"
 
-[RVX]
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 included-patches = "'Hide category bar'"
