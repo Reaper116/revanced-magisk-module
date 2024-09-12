@@ -1,8 +1,5 @@
-enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
-
 [YouTube Vanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "module"
 included-patches = "'Enable slide to seek'"
 excluded-patches = "'Hide seekbar' 'Hide endscreen cards' 'Comments' 'Playback speed' 'Swipe controls'"
 
