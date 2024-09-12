@@ -5,5 +5,4 @@ excluded-patches = "'Hide seekbar' 'Hide endscreen cards' 'Comments' 'Playback s
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 included-patches = "'Hide category bar'"
