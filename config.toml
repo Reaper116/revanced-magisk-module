@@ -2,6 +2,7 @@
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 included-patches = "'Enable slide to seek'"
 excluded-patches = "'Hide seekbar' 'Hide endscreen cards' 'Comments' 'Playback speed' 'Swipe controls'"
+build-mode = "both"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
