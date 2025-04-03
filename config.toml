@@ -3,8 +3,9 @@ parallel-jobs = 1
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-
+build-mode = "both"
+ 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 included-patches = "'Custom branding' 'Change header'"
-
+build-mode = "both"
