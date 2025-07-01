@@ -3,7 +3,8 @@ parallel-jobs = 1
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-build-mode = "module"
+build-mode = "both"
+version = "latest"
  
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
